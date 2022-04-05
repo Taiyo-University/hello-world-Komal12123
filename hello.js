@@ -1,6 +1,6 @@
 // "my friend" -> "Hello, my friend"
 function hello(title) {
-  return `Hello, ${title}`;
+  return `Heeeeello, ${title}`;
 }
 
 module.exports = hello;
